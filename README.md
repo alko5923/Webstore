@@ -1,4 +1,5 @@
-# A webstore implementation (using the custom-built hash-table and linked list)
+# A webstore implementation 
+# (using the custom-built hash-table and linked list)
 
 Welcome to our Webstore!
 
