@@ -1,5 +1,3 @@
-![webstore-logo](https://github.com/alko5923/Webstore/blob/main/webstore-logo.jpg)
-
 # A webstore implementation 
 
 Welcome to our Webstore!
@@ -20,3 +18,5 @@ several shopping carts under different names.
 We hope you will enjoy our virtual webshop, and buy many items! 
 
 P.S. Nerd note: the program uses a custom-built hash-table and linked list implementations. 
+
+![webstore-logo](https://github.com/alko5923/Webstore/blob/main/webstore-logo.jpg)
