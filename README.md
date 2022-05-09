@@ -1,4 +1,4 @@
-![webstore-logo](https://github.com/alko5923/Mr-X/blob/main/mrx.jpg)
+![webstore-logo](https://github.com/alko5923/Webstore/blob/main/webstore-logo.jpg)
 
 # A webstore implementation 
 
