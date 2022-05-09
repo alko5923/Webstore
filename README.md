@@ -1,3 +1,5 @@
+![webstore-logo](https://github.com/alko5923/Mr-X/blob/main/mrx.jpg)
+
 # A webstore implementation 
 
 Welcome to our Webstore!
