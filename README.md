@@ -1,5 +1,7 @@
 # A webstore implementation 
 
+A project for the Imperative and Object-Oriented Programming Methodology course at Uppsala university. 
+
 Welcome to our Webstore!
 
 It can be built and run with the command "make assignment2" in the terminal.
